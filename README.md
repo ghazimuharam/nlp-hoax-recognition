@@ -1,13 +1,12 @@
 # NLP Hoax Recoginition
-
----
+Current accuracy : 83.3%
 
 ## Purpose
 
 This program used to classify hoax from given naration for IPB Big Data Challange.
 
-Datasets File Name : `Data Latih/Data Latih BDC.csv`
-Datasets Structure : `ID,label,tanggal,judul,narasi,nama file gambar`
+- Datasets File Name : `Data Latih/Data Latih BDC.csv`
+- Datasets Structure : `ID,label,tanggal,judul,narasi,nama file gambar`
 
 Installation
 
@@ -21,5 +20,5 @@ pip install requirements.txt
 
 ## Documentation
 
-`nlp_train.py` : Python file to train Machine Learning Model
-`data_cleaning.py` : Python file to balance Datasets(The datasets given are not balanced)
+- `nlp_train.py` : Python file to train Machine Learning Model
+- `data_cleaning.py` : Python file to balance Datasets(The datasets given are not balanced)
