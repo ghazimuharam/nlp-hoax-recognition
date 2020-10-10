@@ -1,6 +1,8 @@
 # NLP Hoax Recoginition
 Current accuracy : 83.3%
 
+![image](https://user-images.githubusercontent.com/22569688/95654410-fc562200-0b29-11eb-8fae-42a0b2b09c96.png)
+
 ## Purpose
 
 This program used to classify hoax from given naration for IPB Big Data Challange.
